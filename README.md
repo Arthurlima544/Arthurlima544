@@ -1,10 +1,6 @@
 ### Hi there, I'm Arthur Lima 👋
 
-- 💻 I’m love programming.
-- 🎓 I'm studying Software Enginner at the Universidade de Brasília, Brazil.
-- 🌱 I’m currently taking a [Datacamp course](https://app.datacamp.com/learn/courses/aws-security-and-cost-management) on AWS Security.
-- 👀 I'm Looking for a Job.
-
+- Code mode 💻: ON. 🚀
 
 
 ### 📊 GitHub Stats:
